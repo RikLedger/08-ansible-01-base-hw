@@ -61,5 +61,5 @@ Playbook выполнился.
 
 ![img_9.png](IMG/img_9.png)
 
-12. Заполнил README.md, запушил в свой репозиторий. [Ссылка](https://github.com/DemoniumBlack/fedorchukds-devops-33-16/tree/main/SRC/playbook) на playbook.
+12. Заполнил README.md, запушил в свой репозиторий. [Ссылка](https://github.com/RikLedger/ansible-hw-01/tree/main/SRC/playbook) на playbook.
 
